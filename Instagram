@@ -1,0 +1,59 @@
+- 👋 Hi, I’m @QuelleTaylor
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+QuelleTaylor/QuelleTaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    
+    <!--bootstrap-icons--->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    
+    <title>Quelle Taylor</title>
+  </head>
+  <body>
+    <h1></h1>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+<header>
+    
+    <nav class="navbar navbar-light top">
+        <div class="container-fluid"></div>
+        <a class="navbar-brand"></a>
+        <a class="nav-link active" aria-current="page" href=""></a>
+        <img src="logo.png" sizes="max height:80px "width="130px"></a>
+    <form class="d-flex">
+     <input class="form-control me-2" type="search" placeholder="pesquisar" aria-label="pesquisar"></form>
+     <div style = " width: 30%; " >
+     <i class="bi bi-house-door"></i>
+     <i class="bi bi-inbox"></i>
+    <i class="bi bi-compass-fill"></i>
+    <i class="bi bi-emoji-heart-eyes"></i>
+
+
+</div>
+</nav>
+
+</header>
+<div class = " container " >
+
+
+
+  </body>
+</html>
